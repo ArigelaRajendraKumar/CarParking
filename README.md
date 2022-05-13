@@ -20,9 +20,10 @@ Under The Hotel Management System (HMS) Each Group will have below moduels like
 
 # FEATURES
 
-  -> Each user report can be provided.
-  -> Day wise report can be provided.
-  -> Upto date all records can be provided.
+  -> Receptionist can add the customer/user.
+  -> Receptionist can check the available rooms in the hotel.
+  -> Receptionist can check the overall bill of each user.
+  -> Receptionist can check the overall bill upto date.
 
 # GETTING STARTED WITH HOW TO KEEP CODE IN GIT HUB
 
